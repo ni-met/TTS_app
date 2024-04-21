@@ -1,0 +1,98 @@
+
+[	java:S112	"FDefine and throw a dedicated exception instead of using a generic one.(£½Şè
+[	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(§‰°Ë
+`	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(õû¦çúÿÿÿÿ
+a	java:S112“"FDefine and throw a dedicated exception instead of using a generic one.(÷ùàøÿÿÿÿ
+a	java:S112·"FDefine and throw a dedicated exception instead of using a generic one.(‡‹Á¸üÿÿÿÿ
+\	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.( ì¶
+a	java:S112Ş"FDefine and throw a dedicated exception instead of using a generic one.(ßµ´ïøÿÿÿÿ
+a	java:S112ø"FDefine and throw a dedicated exception instead of using a generic one.(üì‡äşÿÿÿÿ
+a	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(Õ–—äûÿÿÿÿ
+d
+java:S1192…"HDefine a constant instead of duplicating this literal "userAge" 3 times.(Ó¶¨…ÿÿÿÿÿ
+h
+java:S1192L"MDefine a constant instead of duplicating this literal "userIdNumber" 3 times.(Ëšı›úÿÿÿÿ
+g	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÁÕ’
+g	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÁÕ’
+>
+java:S5411R"(Use a primitive boolean expression here.(ò‡Û
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¶‘–
+e
+java:S2095D"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ë·¨
+k
+java:S2095ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(™‘õşÿÿÿÿ
+k
+java:S2095»"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¸É™­ÿÿÿÿÿ
+f
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ëıø
+k
+java:S2095æ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(™‘õşÿÿÿÿ
+f
+java:S2095€"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ç‡¥í
+M
+java:S2589/"7Remove this expression which always evaluates to "true"(Â’Ğ¨
+N
+java:S2589×"7Remove this expression which always evaluates to "true"(Â’Ğ¨
+R
+java:S2589j"7Remove this expression which always evaluates to "true"(ê¿ÇÃüÿÿÿÿ
+N
+java:S2589«"7Remove this expression which always evaluates to "true"(Â’Ğ¨
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„“Èûÿÿÿÿ
+8
+java:S1118"Hide this public constructor.(„“Èûÿÿÿÿ
+†
+java:S1130	"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(£½Şè
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ğÂ¿n
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À¤ÿ£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç£Ã¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(š¼ÿ²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÔÁ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãõ¯Úıÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(–„şĞ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(•Œ”j
+†
+java:S11305"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(§‰°Ë
+;
+java:S21298" Remove this "String" constructor(ò®ä®ÿÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(À¤ÿ£
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ç£Ã¥
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ãÎÌ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ÿÁšãÿÿÿÿÿ
+=
+java:S1125R"'Remove the unnecessary boolean literal.(ò‡Û
+M	java:S106X"9Replace this use of System.out or System.err by a logger.(„´É9
+‹
+java:S1130\"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(õû¦çúÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(¢Íİªûÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(Á‘Ğıÿÿÿÿ
+‹
+java:S1130q"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(ÏÚ™øÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(ÿê¼ûÿÿÿÿ
+M	java:S106w"9Replace this use of System.out or System.err by a logger.(°ŞÔs
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(ªåËÌùÿÿÿÿ
+Œ
+java:S1130“"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(÷ùàøÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Óä¹úÿÿÿÿ
+O	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(²åßĞ
+Œ
+java:S1130·"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(‡‹Á¸üÿÿÿÿ
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(•‚ù¸ûÿÿÿÿ
+‡
+java:S1130È"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.( ì¶
+Œ
+java:S1130Ş"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(ßµ´ïøÿÿÿÿ
+Œ
+java:S1130ø"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(üì‡äşÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ï®Í‚úÿÿÿÿ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(Ùùèûúÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ï®Í‚úÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ø˜çïüÿÿÿÿ
+Œ
+java:S1130š"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Õ–—äûÿÿÿÿ
+C
+java:S1481›"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(´˜ÿ©ÿÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(»³Ç¥úÿÿÿÿ

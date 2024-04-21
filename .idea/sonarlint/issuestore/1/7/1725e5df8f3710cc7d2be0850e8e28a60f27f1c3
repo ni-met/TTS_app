@@ -1,0 +1,69 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ğÕ†ÿ8ÖšŞÇÿ0
+h	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(ßµ´ïøÿÿÿÿ8ÿŠºÏÿ0
+K
+java:S1121".Extract the assignment out of this expression.(ÑŞİÅ8„€ŞÇÿ0
+K
+java:S1121".Extract the assignment out of this expression.(Ğéü¢8„€ŞÇÿ0
+P
+java:S1121i".Extract the assignment out of this expression.(ÖÏøÿÿÿÿÿ8‹ºÏÿ0
+P
+java:S1121l".Extract the assignment out of this expression.(Ã€÷üüÿÿÿÿ8‹ºÏÿ0
+K
+java:S1121u".Extract the assignment out of this expression.(ãèÙÖ8‹ºÏÿ0
+K
+java:S1121w".Extract the assignment out of this expression.(¼è“Ğ8‹ºÏÿ0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šİò¼ûÿÿÿÿ8˜ÚÛÇÿ0
+h
+java:S2259Z"KA "NullPointerException" could be thrown; "departureTime" is nullable here.(Æèßş8µ‹ºÏÿ0
+r
+java:S2095Œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ¶Í¾øÿÿÿÿ8µ‹ºÏÿ0
+q
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²İŒ½úÿÿÿÿ8µ‹ºÏÿ0
+r
+java:S2095Ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(™‘õşÿÿÿÿ8µ‹ºÏÿ0
+T
+java:S2589<"7Remove this expression which always evaluates to "true"(Â’Ğ¨8µ‹ºÏÿ0
+T
+java:S2589T"7Remove this expression which always evaluates to "true"(Â’Ğ¨8¶‹ºÏÿ0
+Y
+java:S25894"7Remove this expression which always evaluates to "true"(Æ ³¼úÿÿÿÿ8¶‹ºÏÿ0
+C
+java:S1170"!Make this final field static too.(±§Êíøÿÿÿÿ8¥ŠÉÿ0
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÛŞÿ½8¸ÿŠÉÿ0
+X
+java:S6437"6Revoke and change this password, as it is compromised.(®ßºîøÿÿÿÿ8…¥ŠÉÿ0
+\
+java:S1854"?Remove this useless assignment to local variable "isRoundTrip".(ÑŞİÅ8€ŞÇÿ0
+\
+java:S1854"?Remove this useless assignment to local variable "isRoundTrip".(Ğéü¢8€ŞÇÿ0
+
+java:S1130"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(ğÕ†ÿ8æšŞÇÿ0
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ğÕ†ÿ8ï¸ŞÇÿ0
+M
+java:S1481"0Remove this unused "isRoundTrip" local variable.(°£÷Ô8€ŞÇÿ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(œá×W8€ŞÇÿ0
+’
+java:S1130""pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Ó½Ÿ­ûÿÿÿÿ8½‹ºÏÿ0
+n
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨˜8À‹ºÏÿ0
+Œ
+java:S1130C"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(¨˜8À‹ºÏÿ0
+I
+java:S1125h"'Remove the unnecessary boolean literal.(ë¬í€úÿÿÿÿ8Ä‹ºÏÿ0
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(‚õ¦ùÿÿÿÿ8Å‹ºÏÿ0
+’
+java:S1130~"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(ïÒşºüÿÿÿÿ8Ç‹ºÏÿ0
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Å¾‡üÿÿÿÿ8Ê‹ºÏÿ0
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(û‹®ª8Ì‹ºÏÿ0
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(¿ú³Ùÿÿÿÿÿ8Ì‹ºÏÿ0
+D
+java:S1125™"'Remove the unnecessary boolean literal.(çåŠd8Í‹ºÏÿ0
+N
+java:S1481½"+Remove this unused "userId" local variable.(’°¨Äıÿÿÿÿ8Ğ‹ºÏÿ0
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(¥ÿÒ¬ùÿÿÿÿ8Ñ‹ºÏÿ0
+[	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¥¬»ÿÿÿÿÿ8Ò‹ºÏÿ0
+“
+java:S1130Ô"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(ßµ´ïøÿÿÿÿ8Ó‹ºÏÿ0

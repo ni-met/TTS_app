@@ -1,0 +1,108 @@
+
+«
+java:S1192*"Define a constant instead of duplicating this literal "----------------------------------------------------------------------------" 9 times.(ª¨ÅÕ8‘ˆ˜Çÿ0
+n
+java:S1301Œ"KReplace this "switch" statement by "if" statements to increase readability.(¾«œÛıÿÿÿÿ8¤ˆ˜Çÿ0
+n
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¾«œÛıÿÿÿÿ8¥ˆ˜Çÿ0
+7
+java:S1220""Move this file to a named package.8ñˆ˜Çÿ0
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠŸ®ó8ƒ¾˜Çÿ0
+
+java:S1130"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(şì»¦8ó¾˜Çÿ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÎàÊ†ÿÿÿÿÿ8‹¿˜Çÿ0
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(×°ÕÀùÿÿÿÿ8•¿˜Çÿ0
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8•¿˜Çÿ0
+C	java:S131""Add a default case to this switch.(¾«œÛıÿÿÿÿ8•¿˜Çÿ0
+o
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ğª÷’8Ÿ¿˜Çÿ0
+
+java:S1130!"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Ğª÷’8®¿˜Çÿ0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.( ³«¨ıÿÿÿÿ8»¿˜Çÿ0
+T
+java:S6126'"2Replace this String concatenation with Text block.( ³«¨ıÿÿÿÿ8¼¿˜Çÿ0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8¾¿˜Çÿ0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.( ³«¨ıÿÿÿÿ8Â¿˜Çÿ0
+T
+java:S6126+"2Replace this String concatenation with Text block.( ³«¨ıÿÿÿÿ8Ã¿˜Çÿ0
+h	java:S128="LEnd this switch case with an unconditional break, return or throw statement.(Íûò£8Æ¿˜Çÿ0
+h	java:S128<"LEnd this switch case with an unconditional break, return or throw statement.(‚›Ôâ8Æ¿˜Çÿ0
+h	java:S1287"LEnd this switch case with an unconditional break, return or throw statement.(ƒıÙ™8Ç¿˜Çÿ0
+h	java:S1282"LEnd this switch case with an unconditional break, return or throw statement.(ìÑ‘Ë8Ç¿˜Çÿ0
+h	java:S1281"LEnd this switch case with an unconditional break, return or throw statement.(¿„¬Î8È¿˜Çÿ0
+C	java:S1310""Add a default case to this switch.(¾«œÛıÿÿÿÿ8È¿˜Çÿ0
+Œ
+java:S1130K"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(èÌ—8İ¿˜Çÿ0
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8ã¿˜Çÿ0
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ÁÌùü8ä¿˜Çÿ0
+O
+java:S6126R"2Replace this String concatenation with Text block.(ÁÌùü8å¿˜Çÿ0
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8æ¿˜Çÿ0
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ÁÌùü8è¿˜Çÿ0
+O
+java:S6126V"2Replace this String concatenation with Text block.(ÁÌùü8é¿˜Çÿ0
+h	java:S128`"LEnd this switch case with an unconditional break, return or throw statement.(ƒıÙ™8ë¿˜Çÿ0
+h	java:S128^"LEnd this switch case with an unconditional break, return or throw statement.(ªÙ˜é8ë¿˜Çÿ0
+h	java:S128\"LEnd this switch case with an unconditional break, return or throw statement.(±¬àŞ8ì¿˜Çÿ0
+C	java:S131[""Add a default case to this switch.(¾«œÛıÿÿÿÿ8ì¿˜Çÿ0
+’
+java:S1130o"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(«Ñöùÿÿÿÿ8ÿ¿˜Çÿ0
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8‚À˜Çÿ0
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(¶Åé½8ƒÀ˜Çÿ0
+O
+java:S6126t"2Replace this String concatenation with Text block.(¶Åé½8„À˜Çÿ0
+h	java:S128}"LEnd this switch case with an unconditional break, return or throw statement.(§Èõ–8†À˜Çÿ0
+m	java:S128{"LEnd this switch case with an unconditional break, return or throw statement.(ã¹Ëÿÿÿÿÿ8†À˜Çÿ0
+g	java:S128y"LEnd this switch case with an unconditional break, return or throw statement.(¬ÙÅ88†À˜Çÿ0
+C	java:S131x""Add a default case to this switch.(¾«œÛıÿÿÿÿ8‡À˜Çÿ0
+
+java:S1130„"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(éÔúé8ŠÀ˜Çÿ0
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8ŠÀ˜Çÿ0
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(´Ëíµşÿÿÿÿ8”À˜Çÿ0
+i	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(‹«íç8”À˜Çÿ0
+D	java:S131Œ""Add a default case to this switch.(¾«œÛıÿÿÿÿ8”À˜Çÿ0
+[
+java:S1854˜"=Remove this useless assignment to local variable "hasAccess".(…ô†ô8¤À˜Çÿ0
+
+java:S1130”"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(àÓ¢Õ8¤À˜Çÿ0
+L
+java:S1481˜".Remove this unused "hasAccess" local variable.(…ô†ô8¶À˜Çÿ0
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8¶À˜Çÿ0
+[	java:S106›"9Replace this use of System.out or System.err by a logger.(‚ªİØıÿÿÿÿ8¶À˜Çÿ0
+h	java:S128Ÿ"LEnd this switch case with an unconditional break, return or throw statement.(Ùàó'8¶À˜Çÿ0
+D	java:S131""Add a default case to this switch.(¾«œÛıÿÿÿÿ8¶À˜Çÿ0
+[
+java:S1854ª"=Remove this useless assignment to local variable "hasAccess".(…ô†ô8¶À˜Çÿ0
+“
+java:S1130¦"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Úçßùÿÿÿÿ8ÇÀ˜Çÿ0
+L
+java:S1481ª".Remove this unused "hasAccess" local variable.(…ô†ô8ÒÀ˜Çÿ0
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8ÓÀ˜Çÿ0
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(ª½„8ÕÀ˜Çÿ0
+P
+java:S6126­"2Replace this String concatenation with Text block.(ª½„8×À˜Çÿ0
+n	java:S128¶"LEnd this switch case with an unconditional break, return or throw statement.(Üû¬Ÿøÿÿÿÿ8İÀ˜Çÿ0
+n	java:S128´"LEnd this switch case with an unconditional break, return or throw statement.(ïş—óùÿÿÿÿ8İÀ˜Çÿ0
+n	java:S128²"LEnd this switch case with an unconditional break, return or throw statement.(İË‡ƒüÿÿÿÿ8ŞÀ˜Çÿ0
+D	java:S131±""Add a default case to this switch.(¾«œÛıÿÿÿÿ8ŞÀ˜Çÿ0
+
+java:S1130½"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(—­óø8êÀ˜Çÿ0
+V	java:S106Â"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8úÀ˜Çÿ0
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ŠôÜùùÿÿÿÿ8úÀ˜Çÿ0
+U
+java:S6126Ã"2Replace this String concatenation with Text block.(ŠôÜùùÿÿÿÿ8úÀ˜Çÿ0
+n	java:S128Ñ"LEnd this switch case with an unconditional break, return or throw statement.(Æ·ù¥üÿÿÿÿ8úÀ˜Çÿ0
+i	java:S128Ì"LEnd this switch case with an unconditional break, return or throw statement.(Ğ²¬„8úÀ˜Çÿ0
+n	java:S128Ê"LEnd this switch case with an unconditional break, return or throw statement.(×°ÕÀùÿÿÿÿ8úÀ˜Çÿ0
+n	java:S128È"LEnd this switch case with an unconditional break, return or throw statement.(¼èòøúÿÿÿÿ8úÀ˜Çÿ0
+D	java:S131Ç""Add a default case to this switch.(¾«œÛıÿÿÿÿ8úÀ˜Çÿ0
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(Ğ²¬„8ŠÁ˜Çÿ0
+[	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(Æ·ù¥üÿÿÿÿ8ŠÁ˜Çÿ0
+“
+java:S1130Û"pRemove the declaration of thrown exception 'java.sql.SQLException' which is a subclass of 'java.lang.Exception'.(Ì“ò‹ıÿÿÿÿ8”Á˜Çÿ0
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(ª¨ÅÕ8”Á˜Çÿ0
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(µ”—š8”Á˜Çÿ0
+i	java:S128æ"LEnd this switch case with an unconditional break, return or throw statement.(¸ÌÙ¦8”Á˜Çÿ0
+i	java:S128ä"LEnd this switch case with an unconditional break, return or throw statement.(Äøà­8”Á˜Çÿ0
+D	java:S131ã""Add a default case to this switch.(¾«œÛıÿÿÿÿ8”Á˜Çÿ0
